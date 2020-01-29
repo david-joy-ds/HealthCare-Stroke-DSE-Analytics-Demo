@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/davidjoy/Desktop/Gatlin/Health-care-stroke-Analytics-DSE-Analytics-Demo/target/scala-2.11/health-care-stroke-analytics-dse-analytics-demo_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davidjoy/Desktop/Gatlin/Health-care-stroke-Analytics-DSE-Analytics-Demo/target/scala-2.11/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HealthPack[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davidjoy/Desktop/Gatlin/Health-care-stroke-Analytics-DSE-Analytics-Demo/target/scala-2.11/classes/HealthPack[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HealthPack/SparkHealthApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davidjoy/Desktop/Gatlin/Health-care-stroke-Analytics-DSE-Analytics-Demo/target/scala-2.11/classes/HealthPack/SparkHealthApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HealthPack/SparkHealthApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davidjoy/Desktop/Gatlin/Health-care-stroke-Analytics-DSE-Analytics-Demo/target/scala-2.11/classes/HealthPack/SparkHealthApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HealthPack/SparkHealthApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davidjoy/Desktop/Gatlin/Health-care-stroke-Analytics-DSE-Analytics-Demo/target/scala-2.11/classes/HealthPack/SparkHealthApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
