@@ -29,8 +29,6 @@ Create `vi health_load.cql` file and copy the below model.
 
 Create this data model by running `cqlsh -f health_load.cql` from the working directory.
 
-Open `cqlsh` and run `COPY keyspace1.health_stroke FROM 'health_care_stroke.csv' and Header = TRUE`
-
 ### LOAD DATA TO DSE CORE
 
 There are various ways to load data into cql from csv. The popular one's are `COPY` and `DSBULK`. For production purposes and for large dataset loading use `dsbulk`.
