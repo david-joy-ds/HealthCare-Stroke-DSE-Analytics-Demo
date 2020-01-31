@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/davidjoy/Desktop/Gatlin/Health-care-stroke-Analytics-DSE-Analytics-Demo/src/main/scala/HealthPack/SparkHealthApp.scala:8:8: object dsExlpore is not a member of package Optimize[0m
+[0m[[0m[31merror[0m] [0m[0mimport Optimize.dsExlpore[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
