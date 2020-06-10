@@ -50,4 +50,10 @@ Go to the directory where the Jar file is kept or provide the path of the Jar Fi
 
 Note : we do not need to provide a spark master with DSE as it is chosen automatically. 
 
+### New Modules added 
+
+1. RDD load and count
+2. ML module - This runs a basic Logistic Regression model on the Health Check Data
+3. Optimize Module - Refers to various tuning posibilities, at the moment there is only one shuffle example.
+
  #### Dataset : https://www.kaggle.com/asaumya/healthcare-dataset-stroke-data#train_2v.csv
